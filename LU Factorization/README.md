@@ -3,4 +3,5 @@
 This code finds the solved upper and lower matricies froma given square matrix.
 This code doesn't have an input but the matrix can be changed.
 The function output two matracies (the L and the U factorized).
+The limitation is that the matrix has to be a sqaure matrix.
 This is a regular code that can have the matrix A changed if needed. 
